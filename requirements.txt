@@ -1,0 +1,4 @@
+-f /usr/share/pip-wheels
+Django==1.9
+djangorestframework==3.10.2
+whitenoise==4.1.3
